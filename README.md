@@ -1,9 +1,4 @@
 ﻿# AutoScrape
-
-Here is a professional GitHub README for your project. It’s written to impress recruiters for Python Automation / AventIQ and is ready to paste into your repository.
-
-AutoScrape Pro
-
 Web Automation & Data Extraction using Python, Selenium & BeautifulSoup
 
 AutoScrape Pro is a Python-based automation tool that performs automated login, dynamic web interaction, and structured data extraction from JavaScript-rendered websites. The project demonstrates real-world automation workflows including browser control, scraping, data processing, and export.
@@ -103,3 +98,4 @@ AutoScrape-Pro/
 ├── scraped_quotes.json
 ├── README.md
 └── requirements.txt
+
